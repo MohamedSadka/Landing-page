@@ -1,0 +1,3 @@
+## About My Landing Page Website
+
+I recently crafted a captivating landing page website using HTML, CSS, and Sass to showcase my skills in front-end web development. The page features a stunning and responsive design that adapts seamlessly to various devices, ensuring a smooth user experience across desktops, tablets, and smartphones. Leveraging the power of Sass, I efficiently organized my stylesheets with variables, mixins, and nesting, resulting in clean and maintainable code. The use of modern CSS techniques, such as Flexbox or Grid, helped me create a visually appealing layout with effortless alignment and spacing. I'm thrilled with the outcome and eager to continue honing my web development expertise!
